@@ -1,11 +1,10 @@
 Absolute Noob 
 
-https://github-readme-stats.vercel.app/api?username=TheCheesyWiggle&show_icons=true&theme=great-gatsby
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-    https://github-readme-stats.vercel.app/api?username=TheCheesyWiggle&show_icons=true&theme=great-gatsby
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCheesyWiggle&show_icons=true&theme=vision-friendly-dark)
 
-    (https://github-readme-stats.vercel.app/api/top-langs/?username=TheCheesyWiggle&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCheesyWiggle&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </details>
