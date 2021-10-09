@@ -1,6 +1,6 @@
 Absolute Noob 
 
-![Place Holder](https://www.goodcore.co.uk/blog/wp-content/webp-express/webp-images/uploads/2019/08/coding-vs-programming-2.jpg.webp)
+![Place Holder](https://www.canva.com/design/DAEsV9WixU8/AY-PO2XSKO0Xauo-QGPcvg/view?utm_content=DAEsV9WixU8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
