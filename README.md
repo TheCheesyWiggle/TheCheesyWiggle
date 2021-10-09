@@ -1,6 +1,6 @@
 Absolute Noob 
 
-[title](https://www.example.com)
+[Place Holder](https://www.goodcore.co.uk/blog/wp-content/webp-express/webp-images/uploads/2019/08/coding-vs-programming-2.jpg.webp)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
          _nnnn_                      
