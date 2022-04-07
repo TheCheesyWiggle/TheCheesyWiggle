@@ -1,4 +1,4 @@
-Finn
+Finn van Montfort
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Place Holder](https://github.com/TheCheesyWiggle/TheCheesyWiggle/blob/main/Finn%20van%20Montfort.gif)
