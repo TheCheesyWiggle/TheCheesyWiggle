@@ -1,7 +1,7 @@
 Finn van Montfort
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Personal website: # [finn-van-montfort.github.io](https://finn-van-montfort.github.io) (Under Development)
+Personal website: [finn-van-montfort.github.io](https://finn-van-montfort.github.io) (Under Development)
 
 :zap: GitHub Stats :zap:
 
