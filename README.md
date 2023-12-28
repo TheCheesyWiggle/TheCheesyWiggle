@@ -1,6 +1,6 @@
 # Finn van Montfort
 
-:zap: **GitHub Stats** :zap:
+### :zap: **GitHub Stats** :zap:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCheesyWiggle&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
