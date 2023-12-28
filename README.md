@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=TheCheesyWiggle&style=flat-square&color=blue" alt=""/>
 
-<script src="https://github.com/TheCheesyWiggle/TheCheesyWiggle/blob/main/TheCheesyWiggle-2023.stl"></script>
+<!--<script src="https://embed.github.com/view/3d/TheCheesyWiggle/TheCheesyWiggle/blob/main/TheCheesyWiggle-2023.stl" ></script>-->
 
 
 
