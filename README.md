@@ -2,6 +2,8 @@
 
 ### :zap: **GitHub Stats** :zap:
 
+<img src="https://komarev.com/ghpvc/?username=TheCheesyWiggle&style=flat-square&color=blue" alt=""/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCheesyWiggle&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
