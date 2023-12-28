@@ -26,4 +26,10 @@
 
 
 Feel free to reach out for potential opportunities or a chat.
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white")](www.linkedin.com/in/finn-van-montfort-ab13731ab)
+<div id="footer" align="center">  
+  <div id="social">
+    <a href="https://www.linkedin.com/in/finn-van-montfort-ab13731ab/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+</div>
