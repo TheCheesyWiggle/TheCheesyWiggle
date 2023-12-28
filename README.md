@@ -23,6 +23,6 @@
 
 
 
-Feel free to reach out for potential opportunities or a chat. Your engagement is highly appreciated.
+Feel free to reach out for potential opportunities or a chat.
 
 [LinkedIn](www.linkedin.com/in/finn-van-montfort-ab13731ab)
