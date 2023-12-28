@@ -1,8 +1,12 @@
 # Finn van Montfort
-
+---
 ### :zap: **GitHub Stats** :zap:
 
 <img src="https://komarev.com/ghpvc/?username=TheCheesyWiggle&style=flat-square&color=blue" alt=""/>
+
+<script src="https://github.com/TheCheesyWiggle/TheCheesyWiggle/blob/main/TheCheesyWiggle-2023.stl"></script>
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCheesyWiggle&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
