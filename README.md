@@ -1,20 +1,24 @@
-Finn van Montfort
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Finn van Montfort
 
-:zap: GitHub Stats :zap:
+:zap: **GitHub Stats** :zap:
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCheesyWiggle&show_icons=true&theme=vision-friendly-dark&show_icons=true)-->
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCheesyWiggle&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 ### :hammer_and_wrench: Languages and Tools :
 
 <div class="flex-container">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="width: 50px;" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 50px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width:50px;" />    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="width:50px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" style="width: 50px;"/>     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="width: 50px;"/>
 </div>
--->
 
+---
+
+
+
+Feel free to reach out for potential opportunities or a chat. Your engagement is highly appreciated.
+
+[LinkedIn](www.linkedin.com/in/finn-van-montfort-ab13731ab)
