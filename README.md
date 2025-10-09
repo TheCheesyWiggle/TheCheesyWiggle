@@ -1,9 +1,9 @@
 # Finn van Montfort
 
-Software Engineer | DevOps Enthusiast | Cloud Infrastructure Development
+## Software Engineer | DevOps Enthusiast | Cloud Infrastructure Development
 
 ---
-👋 About Me
+👋 ### About Me
 
 I’m a final year Computer Science student with a strong focus on cloud infrastructure, and DevOps automation.
 I’m passionate about building high-performance systems, real-time applications, and developer tooling that bridge the gap between software and infrastructure.
