@@ -2,7 +2,6 @@
 
 ## Software Engineer | DevOps Enthusiast | Cloud Infrastructure Development
 
----
 👋 ### About Me
 
 I’m a final year Computer Science student with a strong focus on cloud infrastructure, and DevOps automation.
