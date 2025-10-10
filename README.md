@@ -17,13 +17,13 @@ I’m passionate about building high-performance systems, real-time applications
 
 🌍 Currently building: Hack South West website, personal website and a fullstack debate resolution app!
 
----
-### :zap: **GitHub Stats** :zap:
+<!------->
+<!--### :zap: **GitHub Stats** :zap:-->
 
-<img src="https://komarev.com/ghpvc/?username=TheCheesyWiggle&style=flat-square&color=blue" alt=""/>
+<!--<img src="https://komarev.com/ghpvc/?username=TheCheesyWiggle&style=flat-square&color=blue" alt=""/>-->
 
 <!--<script src="https://embed.github.com/view/3d/TheCheesyWiggle/TheCheesyWiggle/blob/main/TheCheesyWiggle-2023.stl" ></script>-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCheesyWiggle&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCheesyWiggle&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ---
 
