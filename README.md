@@ -1,6 +1,7 @@
 # Finn van Montfort
 
-## Software Engineer | DevOps Enthusiast | Cloud Infrastructure Development
+## Software Engineer | DevOps Enthusiast | Cloud Infrastructure Development | <img src="https://komarev.com/ghpvc/?username=TheCheesyWiggle&style=flat-square&color=blue" alt=""/>
+
 
 ### 👋 About Me
 
