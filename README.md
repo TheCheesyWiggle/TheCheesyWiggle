@@ -15,7 +15,7 @@ I’m passionate about building high-performance systems, real-time applications
 
 🔬 Exploring Rust, React, and Python for scalable development
 
-🌍 Currently building: Hack South West website, personal website and a fullstack social media app!
+🌍 Currently building: Hack South West website, personal website and a fullstack debate resolution app!
 
 ---
 ### :zap: **GitHub Stats** :zap:
