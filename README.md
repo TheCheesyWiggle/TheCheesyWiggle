@@ -14,9 +14,11 @@ I’m passionate about building high-performance systems, real-time applications
 
 🧠 Interested in data storage, containerised solutions, DevOps and all things tech!
 
-🔬 Exploring Rust, React, and Python for scalable development
+🧑‍💻 Exploring Rust, React, and Python for scalable development
 
 🌍 Currently building: Hack South West website, personal website and a fullstack debate resolution app!
+
+🔬 Dissertation Focus: Characterising bacteriophage dynamics using image analysis techniques
 
 <!------->
 <!--### :zap: **GitHub Stats** :zap:-->
