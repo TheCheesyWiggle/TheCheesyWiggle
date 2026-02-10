@@ -3,22 +3,18 @@
 ## Software Engineer | DevOps Enthusiast | Cloud Infrastructure Development | <img src="https://komarev.com/ghpvc/?username=TheCheesyWiggle&style=flat-square&color=blue" alt=""/>
 
 
-### 👋 About Me
+### About Me
 
 I’m a final year Computer Science student with a strong focus on cloud infrastructure, and DevOps automation.
 I’m passionate about building high-performance systems, real-time applications, and developer tooling that bridge the gap between software and infrastructure.
 
-💼 Software Engineer and Student
+Software Engineer and Student
 
-⚙️ **Specialties:** Cloud-native architectures, CI/CD automation, container orchestration, and performance engineering.
-
-🧠 Interested in data storage, containerised solutions, DevOps and all things tech!
-
-🧑‍💻 Exploring Rust, React, and Python for scalable development
-
-🌍 Currently building: Hack South West website, personal website and a fullstack debate resolution app!
-
-🔬 Dissertation Focus: Characterising bacteriophage dynamics using image analysis techniques
+**Specialties:** Cloud-native architectures, CI/CD automation, container orchestration, and performance engineering.
+Interested in data storage, containerised solutions, DevOps and all things tech!
+Exploring Rust, React, and Python for scalable development
+Currently building: Hack South West website, personal website and a fullstack debate resolution app!
+Dissertation Focus: Characterising bacteriophage dynamics using image analysis techniques
 
 <!------->
 <!--### :zap: **GitHub Stats** :zap:-->
