@@ -86,7 +86,7 @@ Dissertation Focus: Characterising bacteriophage dynamics using image analysis t
   <a href="https://www.linkedin.com/in/finn-van-montfort-ab13731ab/"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
   </a> 
-  <a href="mailto:finn.v.montfort@gmail.com"> 
+  <a href="mailto:fjlvanmontfort@gmail.com"> 
     <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> 
   </a>
 
